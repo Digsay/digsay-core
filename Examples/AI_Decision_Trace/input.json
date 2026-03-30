@@ -1,0 +1,20 @@
+{
+  "context": {
+    "version": "3.1",
+    "initiator": {
+      "type": "human",
+      "id": "reviewer_42",
+      "policy": "action"
+    },
+    "participants": [
+      {
+        "type": "system",
+        "id": "ai_model_v1",
+        "policy": "assertion"
+      }
+    ],
+    "interaction": "ai_decision_acceptance",
+    "timestamp": 1774700000,
+    "finalized": true
+  }
+}
