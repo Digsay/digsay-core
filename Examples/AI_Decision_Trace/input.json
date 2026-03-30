@@ -3,13 +3,13 @@
     "version": "3.1",
     "initiator": {
       "type": "human",
-      "id": "reviewer_42",
+      "id": "human_reviewer_42",
       "policy": "action"
     },
     "participants": [
       {
         "type": "system",
-        "id": "ai_model_v1",
+        "id": "system_ai_model_v1",
         "policy": "assertion"
       }
     ],
