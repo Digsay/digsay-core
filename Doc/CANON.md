@@ -25,7 +25,7 @@ Its purpose is to create an independently verifiable fact at the exact moment wh
 
 ---
 
-##  Scope
+## Scope
 This canon defines ONLY the executable invariants of Digsay-Core.
 Anything not defined here is out of scope for the Core and MUST NOT
 influence Core APIs or data models.
@@ -45,7 +45,7 @@ Digsay is a neutral infrastructure for fixation and verifiability of facts.
 
 ---
 
-## 1A. Human Non-Surveillance & AI Accountability Principle
+## 1. Human Non-Surveillance & AI Accountability Principle
 
 Digsay is NOT about monitoring or controlling people.
 
@@ -70,7 +70,7 @@ Digsay focuses on:
 
 ---
 
-## 1B. Evidence Positioning Principle
+## 2. Evidence Positioning Principle
 
 Digsay does NOT prove, evaluate, or judge actions.
 
@@ -89,7 +89,7 @@ Canonical statement:
 > Digsay creates a verifiable trace — not a verdict.
 ---
 
-## 2. External Boundary Principle
+## 3. External Boundary Principle
 Internal ecosystems rely on internal logs and policies.
 At the moment an interaction crosses into an external responsibility domain,
 an external, neutral and verifiable fact is required.
@@ -100,16 +100,16 @@ The boundary is considered crossed only upon finalized Context Binding and creat
 
 ---
 
-## 3. Trust Modes
+## 4. Trust Modes
 Digsay separates two non-overlapping modes:
 
-### 3.1 Trust Observation
+### 4.1 Trust Observation
 - Records confirmed facts of existence or interaction.
 - Does not express consent or intent.
 - Creates no responsibility.
 - Never becomes Action automatically.
 
-### 3.2 Trust Action
+### 4.2 Trust Action
 - Records explicit, confirmed human will.
 - Requires a physical confirmation by the human.
 - Creates responsibility outside Digsay only.
@@ -117,7 +117,7 @@ Digsay separates two non-overlapping modes:
 
 ---
 
-## 4. Machine Event (SYSTEM ↔ SYSTEM)
+## 5. Machine Event (SYSTEM ↔ SYSTEM)
 Machine Event records the fact that a SYSTEM performed an action
 at a specific moment when crossing the External Boundary.
 
@@ -132,7 +132,7 @@ Machine Event records the boundary of fact, not the meaning of the action.
 
 ---
 
-## 5. Assertion Event (SYSTEM → HUMAN)
+## 6. Assertion Event (SYSTEM → HUMAN)
 Assertion Event records the moment a human accepts an assertion
 produced outside Digsay as a basis for their own decision.
 
@@ -150,7 +150,7 @@ Formal Mode Mapping:
 
 ---
 
-## 6. Context Binding v3.1
+## 7. Context Binding v3.1
 Context Binding is the minimal, deterministic structure
 that defines participants, policies and responsibility boundaries.
 
@@ -191,7 +191,7 @@ that defines participants, policies and responsibility boundaries.
 
 ---
 
-## 7. Fixation Acknowledgement (FA)
+## 8. Fixation Acknowledgement (FA)
 Fixation Acknowledgement is a mirrored marker stored outside Digsay
 by the operator of the interacting system.
 
@@ -216,7 +216,7 @@ FA references the canonical Event identifier and does not introduce an alternati
 
 ---
 
-## 8. Black Box Principle (Aviation Sense)
+## 9. Black Box Principle (Aviation Sense)
 Digsay is a black box of interaction in the aviation sense.
 
 - Digsay does not explain decisions.
@@ -225,7 +225,7 @@ Digsay is a black box of interaction in the aviation sense.
 
 Digsay increases accountability without altering decision authority.
 
-## 9. Verification as a Canonical Primitive
+## 10. Verification as a Canonical Primitive
 
 Verification in Digsay-Core is a canonical, authority-free primitive.
 
@@ -262,7 +262,7 @@ Any cryptographic replacement MUST preserve deterministic identity of already fi
 
 ---
 
-## 10. Storage and Privacy
+## 11. Storage and Privacy
 
 Digsay stores only fixation artifacts and cryptographic metadata strictly required for deterministic verification of boundary events.
 
@@ -276,7 +276,7 @@ Privacy is achieved by architectural minimization and absence of business-level 
 
 ---
 
-## 11. Multilingual Canon Synchronization Rule
+## 12. Multilingual Canon Synchronization Rule
 
 Digsay Core Canon may exist in multiple language versions.
 
@@ -289,7 +289,7 @@ If a change cannot be mirrored, it MUST NOT be introduced.
 
 ---
 
-## 12. Canonical Formulae
+## 13. Canonical Formulae
 
 Internal domain — rules and logs.  
 External boundary — verifiable fact.
