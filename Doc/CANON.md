@@ -25,7 +25,7 @@ Its purpose is to create an independently verifiable fact at the exact moment wh
 
 ---
 
-## 0. Scope
+##  Scope
 This canon defines ONLY the executable invariants of Digsay-Core.
 Anything not defined here is out of scope for the Core and MUST NOT
 influence Core APIs or data models.
