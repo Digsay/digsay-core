@@ -1,5 +1,5 @@
 Digsay Core — Executable Canon
-CANON.md v1.0-core
+v1.0-core
 ---
 
 ## Preamble — Why Digsay Exists
