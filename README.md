@@ -1,2 +1,2 @@
-To be continued…  
-Oh, there’s more to come.
+Oh, that's not all.  
+Stay tuned... ;)
